@@ -1,1 +1,1 @@
-# tic_tac_toe
+A simple game using C and C++.
